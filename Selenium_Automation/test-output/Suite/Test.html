@@ -1,0 +1,434 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>25/3/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Nov 23 09:25:57 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>275 seconds (275689 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>positive </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate()'><b>datePickerEnabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 02/11/1993</td>
+<td><div><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-LT8N4FN4&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62555}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f8d3057748956c081a2f455a787ae5ca
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at utilities.Utilities.clickElement(Utilities.java:31)
+	at pageObjects.DatePicker_Page.selectDate_DatePicker(DatePicker_Page.java:137)
+	at pageObjects.DatePicker_Page.selectDate_EnabledDatePicker(DatePicker_Page.java:56)
+	at Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate(Case5_DatePicker_test.java:53)
+... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace832986589", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace832986589'><pre>org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-LT8N4FN4&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62555}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f8d3057748956c081a2f455a787ae5ca
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at utilities.Utilities.clickElement(Utilities.java:31)
+	at pageObjects.DatePicker_Page.selectDate_DatePicker(DatePicker_Page.java:137)
+	at pageObjects.DatePicker_Page.selectDate_EnabledDatePicker(DatePicker_Page.java:56)
+	at Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate(Case5_DatePicker_test.java:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case1_Register_Test.registerNewUser()'><b>registerNewUser</b><br>Test class: Assignment1.Case1_Register_Test<br>Parameters: abc, def, Bengaluru, abc123456@gmail.com, 1234564898, Male, Cricket||Movies, English, Java, India, 1993, November, 15, Abc@1993, Abc@1993</td>
+<td><div><pre>org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 60.000
+  (Session info: chrome=86.0.4240.198)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-LT8N4FN4&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c96a1e8d485fea3e59ebed1ae324bc5a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:132)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:127)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at pageObjects.WebTable_Page.verify_RegisteredUser(WebTable_Page.java:25)
+	at Assignment1.Case1_Register_Test.registerNewUser(Case1_Register_Test.java:44)
+... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace725931728", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace725931728'><pre>org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 60.000
+  (Session info: chrome=86.0.4240.198)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-LT8N4FN4&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c96a1e8d485fea3e59ebed1ae324bc5a
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:132)
+	at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:127)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at pageObjects.WebTable_Page.verify_RegisteredUser(WebTable_Page.java:25)
+	at Assignment1.Case1_Register_Test.registerNewUser(Case1_Register_Test.java:44)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>63</td>
+<td>Assignment1.Case1_Register_Test@5e2c3d18</td></tr>
+<tr>
+<td title='Assignment1.Case2_Alerts_Test.verifyAlertWithOKCancelBtn()'><b>verifyAlertWithOKCancelBtn</b><br>Test class: Assignment1.Case2_Alerts_Test</td>
+<td><div><pre>org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=86.0.4240.198)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-LT8N4FN4&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 287cd8f2207b3c6baa686ab7fcd5ae8a
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+	at pageObjects.Alerts_Page.verify_AlertWithOKCancelBtn(Alerts_Page.java:57)
+	at Assignment1.Case2_Alerts_Test.verifyAlertWithOKCancelBtn(Case2_Alerts_Test.java:34)
+... Removed 30 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1734902032", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1734902032'><pre>org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=86.0.4240.198)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;LAPTOP-LT8N4FN4&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;14.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 287cd8f2207b3c6baa686ab7fcd5ae8a
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+	at pageObjects.Alerts_Page.verify_AlertWithOKCancelBtn(Alerts_Page.java:57)
+	at Assignment1.Case2_Alerts_Test.verifyAlertWithOKCancelBtn(Case2_Alerts_Test.java:34)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>Assignment1.Case2_Alerts_Test@2cb4893b</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerDisabled_SelectDate()'><b>datePickerDisabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 01/23/2020</td>
+<td></td>
+<td>1</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerDisabled_SelectDate()'><b>datePickerDisabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 09/20/2020</td>
+<td></td>
+<td>1</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerDisabled_SelectDate()'><b>datePickerDisabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 03/20/2024</td>
+<td></td>
+<td>4</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerDisabled_SelectDate()'><b>datePickerDisabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 05/19/2010</td>
+<td></td>
+<td>14</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate()'><b>datePickerEnabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 05/05/2020</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate()'><b>datePickerEnabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 07/29/2020</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate()'><b>datePickerEnabled_SelectDate</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 02/29/2016</td>
+<td></td>
+<td>7</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate_SelectMonthYearFromDropDown()'><b>datePickerEnabled_SelectDate_SelectMonthYearFromDropDown</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 05/05/2020</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate_SelectMonthYearFromDropDown()'><b>datePickerEnabled_SelectDate_SelectMonthYearFromDropDown</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 07/29/2020</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate_SelectMonthYearFromDropDown()'><b>datePickerEnabled_SelectDate_SelectMonthYearFromDropDown</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 02/11/1993</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate_SelectMonthYearFromDropDown()'><b>datePickerEnabled_SelectDate_SelectMonthYearFromDropDown</b><br>Test class: Assignment1.Case5_DatePicker_test<br>Parameters: 02/29/2016</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case5_DatePicker_test@645aa696</td></tr>
+<tr>
+<td title='Assignment1.Case7_Gillette_Test.loginIn()'><b>loginIn</b><br>Test class: Assignment1.Case7_Gillette_Test<br>Parameters: https://www.gillette.co.in/en-in, JohnCater1993@gmail.com, sdet@2020, John</td>
+<td></td>
+<td>17</td>
+<td>Assignment1.Case7_Gillette_Test@413d1baf</td></tr>
+<tr>
+<td title='Assignment1.Case7_Gillette_Test.loginIn()'><b>loginIn</b><br>Test class: Assignment1.Case7_Gillette_Test<br>Parameters: https://www.gillette.de/, MichelJames121991@gmail.com, Sdet@2020, Michel</td>
+<td></td>
+<td>12</td>
+<td>Assignment1.Case7_Gillette_Test@413d1baf</td></tr>
+<tr>
+<td title='Assignment1.Case4_Frames_Test.multipleFrames_validation()'><b>multipleFrames_validation</b><br>Test class: Assignment1.Case4_Frames_Test<br>Parameters: Single Frame Testing</td>
+<td></td>
+<td>1</td>
+<td>Assignment1.Case4_Frames_Test@5b218417</td></tr>
+<tr>
+<td title='Assignment1.Case3_Windows_Test.openNewSeperateWindow()'><b>openNewSeperateWindow</b><br>Test class: Assignment1.Case3_Windows_Test</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case3_Windows_Test@cc43f62</td></tr>
+<tr>
+<td title='Assignment1.Case3_Windows_Test.openNewTabbedWindow()'><b>openNewTabbedWindow</b><br>Test class: Assignment1.Case3_Windows_Test</td>
+<td></td>
+<td>2</td>
+<td>Assignment1.Case3_Windows_Test@cc43f62</td></tr>
+<tr>
+<td title='Assignment1.Case3_Windows_Test.openSeperateMultipleWindows()'><b>openSeperateMultipleWindows</b><br>Test class: Assignment1.Case3_Windows_Test</td>
+<td></td>
+<td>5</td>
+<td>Assignment1.Case3_Windows_Test@cc43f62</td></tr>
+<tr>
+<td title='Assignment1.Case1_Register_Test.refreshRegisterPage()'><b>refreshRegisterPage</b><br>Test class: Assignment1.Case1_Register_Test<br>Parameters: abc, def, Bengaluru, abc123456@gmail.com, 1234564898, Male, Cricket||Movies, English, Java, India, 1993, November, 15, Abc@1993, Abc@1993</td>
+<td></td>
+<td>1</td>
+<td>Assignment1.Case1_Register_Test@5e2c3d18</td></tr>
+<tr>
+<td title='Assignment1.Case7_Gillette_Test.register()'><b>register</b><br>Test class: Assignment1.Case7_Gillette_Test<br>Parameters: https://www.gillette.co.in/en-in, John, Cater, CaterJohn12@gmail.com, sdet@2020, 12, 1993, 560079, Yes</td>
+<td></td>
+<td>17</td>
+<td>Assignment1.Case7_Gillette_Test@413d1baf</td></tr>
+<tr>
+<td title='Assignment1.Case7_Gillette_Test.register()'><b>register</b><br>Test class: Assignment1.Case7_Gillette_Test<br>Parameters: https://www.gillette.de/, Michel, James, JamesMichel12@gmail.com, Sdet@2020, 12, 1991, 560080, Yes</td>
+<td></td>
+<td>11</td>
+<td>Assignment1.Case7_Gillette_Test@413d1baf</td></tr>
+<tr>
+<td title='Assignment1.Case6_Selectable_Test.selectable_Serialize()'><b>selectable_Serialize</b><br>Test class: Assignment1.Case6_Selectable_Test</td>
+<td></td>
+<td>3</td>
+<td>Assignment1.Case6_Selectable_Test@6caf0677</td></tr>
+<tr>
+<td title='Assignment1.Case6_Selectable_Test.selectable_defaultFunctionality()'><b>selectable_defaultFunctionality</b><br>Test class: Assignment1.Case6_Selectable_Test</td>
+<td></td>
+<td>0</td>
+<td>Assignment1.Case6_Selectable_Test@6caf0677</td></tr>
+<tr>
+<td title='Assignment1.Case4_Frames_Test.sigleIframe_validation()'><b>sigleIframe_validation</b><br>Test class: Assignment1.Case4_Frames_Test<br>Parameters: Single Frame Testing</td>
+<td></td>
+<td>0</td>
+<td>Assignment1.Case4_Frames_Test@5b218417</td></tr>
+<tr>
+<td title='Assignment1.Case2_Alerts_Test.verifyAlertWithOKBtn()'><b>verifyAlertWithOKBtn</b><br>Test class: Assignment1.Case2_Alerts_Test</td>
+<td></td>
+<td>0</td>
+<td>Assignment1.Case2_Alerts_Test@2cb4893b</td></tr>
+<tr>
+<td title='Assignment1.Case2_Alerts_Test.verifyAlertWithTextBox()'><b>verifyAlertWithTextBox</b><br>Test class: Assignment1.Case2_Alerts_Test<br>Parameters: Vinod</td>
+<td></td>
+<td>0</td>
+<td>Assignment1.Case2_Alerts_Test@2cb4893b</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="34" passed="25" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-23T03:55:57Z" name="Suite" finished-at="2020-11-23T04:00:33Z" duration-ms="275689">
+    <groups>
+      <group name="alerts">
+        <method signature="Case2_Alerts_Test.verifyAlertWithOKBtn()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" name="verifyAlertWithOKBtn" class="Assignment1.Case2_Alerts_Test"/>
+        <method signature="Case2_Alerts_Test.verifyAlertWithOKCancelBtn()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" name="verifyAlertWithOKCancelBtn" class="Assignment1.Case2_Alerts_Test"/>
+        <method signature="Case2_Alerts_Test.verifyAlertWithTextBox(java.lang.String)[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" name="verifyAlertWithTextBox" class="Assignment1.Case2_Alerts_Test"/>
+      </group> <!-- alerts -->
+      <group name="frames">
+        <method signature="Case4_Frames_Test.multipleFrames_validation(java.lang.String)[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" name="multipleFrames_validation" class="Assignment1.Case4_Frames_Test"/>
+        <method signature="Case4_Frames_Test.sigleIframe_validation(java.lang.String)[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" name="sigleIframe_validation" class="Assignment1.Case4_Frames_Test"/>
+      </group> <!-- frames -->
+      <group name="selectable">
+        <method signature="Case6_Selectable_Test.selectable_Serialize()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" name="selectable_Serialize" class="Assignment1.Case6_Selectable_Test"/>
+        <method signature="Case6_Selectable_Test.selectable_defaultFunctionality()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" name="selectable_defaultFunctionality" class="Assignment1.Case6_Selectable_Test"/>
+      </group> <!-- selectable -->
+      <group name="gillete">
+        <method signature="Case7_Gillette_Test.loginIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" name="loginIn" class="Assignment1.Case7_Gillette_Test"/>
+        <method signature="Case7_Gillette_Test.register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" name="register" class="Assignment1.Case7_Gillette_Test"/>
+      </group> <!-- gillete -->
+      <group name="positive">
+        <method signature="Case1_Register_Test.refreshRegisterPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" name="refreshRegisterPage" class="Assignment1.Case1_Register_Test"/>
+        <method signature="Case1_Register_Test.registerNewUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" name="registerNewUser" class="Assignment1.Case1_Register_Test"/>
+        <method signature="Case2_Alerts_Test.verifyAlertWithOKBtn()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" name="verifyAlertWithOKBtn" class="Assignment1.Case2_Alerts_Test"/>
+        <method signature="Case2_Alerts_Test.verifyAlertWithOKCancelBtn()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" name="verifyAlertWithOKCancelBtn" class="Assignment1.Case2_Alerts_Test"/>
+        <method signature="Case2_Alerts_Test.verifyAlertWithTextBox(java.lang.String)[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" name="verifyAlertWithTextBox" class="Assignment1.Case2_Alerts_Test"/>
+        <method signature="Case3_Windows_Test.openNewSeperateWindow()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" name="openNewSeperateWindow" class="Assignment1.Case3_Windows_Test"/>
+        <method signature="Case3_Windows_Test.openNewTabbedWindow()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" name="openNewTabbedWindow" class="Assignment1.Case3_Windows_Test"/>
+        <method signature="Case3_Windows_Test.openSeperateMultipleWindows()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" name="openSeperateMultipleWindows" class="Assignment1.Case3_Windows_Test"/>
+        <method signature="Case4_Frames_Test.multipleFrames_validation(java.lang.String)[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" name="multipleFrames_validation" class="Assignment1.Case4_Frames_Test"/>
+        <method signature="Case4_Frames_Test.sigleIframe_validation(java.lang.String)[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" name="sigleIframe_validation" class="Assignment1.Case4_Frames_Test"/>
+        <method signature="Case5_DatePicker_test.datePickerDisabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" name="datePickerDisabled_SelectDate" class="Assignment1.Case5_DatePicker_test"/>
+        <method signature="Case5_DatePicker_test.datePickerEnabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" name="datePickerEnabled_SelectDate" class="Assignment1.Case5_DatePicker_test"/>
+        <method signature="Case5_DatePicker_test.datePickerEnabled_SelectDate_SelectMonthYearFromDropDown(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" name="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" class="Assignment1.Case5_DatePicker_test"/>
+        <method signature="Case6_Selectable_Test.selectable_Serialize()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" name="selectable_Serialize" class="Assignment1.Case6_Selectable_Test"/>
+        <method signature="Case6_Selectable_Test.selectable_defaultFunctionality()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" name="selectable_defaultFunctionality" class="Assignment1.Case6_Selectable_Test"/>
+        <method signature="Case7_Gillette_Test.loginIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" name="loginIn" class="Assignment1.Case7_Gillette_Test"/>
+        <method signature="Case7_Gillette_Test.register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" name="register" class="Assignment1.Case7_Gillette_Test"/>
+      </group> <!-- positive -->
+      <group name="windows">
+        <method signature="Case3_Windows_Test.openNewSeperateWindow()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" name="openNewSeperateWindow" class="Assignment1.Case3_Windows_Test"/>
+        <method signature="Case3_Windows_Test.openNewTabbedWindow()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" name="openNewTabbedWindow" class="Assignment1.Case3_Windows_Test"/>
+        <method signature="Case3_Windows_Test.openSeperateMultipleWindows()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" name="openSeperateMultipleWindows" class="Assignment1.Case3_Windows_Test"/>
+      </group> <!-- windows -->
+      <group name="datepicker">
+        <method signature="Case5_DatePicker_test.datePickerDisabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" name="datePickerDisabled_SelectDate" class="Assignment1.Case5_DatePicker_test"/>
+        <method signature="Case5_DatePicker_test.datePickerEnabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" name="datePickerEnabled_SelectDate" class="Assignment1.Case5_DatePicker_test"/>
+        <method signature="Case5_DatePicker_test.datePickerEnabled_SelectDate_SelectMonthYearFromDropDown(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" name="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" class="Assignment1.Case5_DatePicker_test"/>
+      </group> <!-- datepicker -->
+      <group name="register">
+        <method signature="Case1_Register_Test.refreshRegisterPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" name="refreshRegisterPage" class="Assignment1.Case1_Register_Test"/>
+        <method signature="Case1_Register_Test.registerNewUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" name="registerNewUser" class="Assignment1.Case1_Register_Test"/>
+      </group> <!-- register -->
+    </groups>
+    <test started-at="2020-11-23T03:55:57Z" name="Test" finished-at="2020-11-23T04:00:33Z" duration-ms="275689">
+      <class name="Assignment1.Case6_Selectable_Test">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" started-at="2020-11-23T03:59:20Z" name="initializeBrowser" finished-at="2020-11-23T03:59:27Z" duration-ms="6533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="selectable_Serialize()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" started-at="2020-11-23T03:59:27Z" name="selectable_Serialize" finished-at="2020-11-23T03:59:30Z" duration-ms="3326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectable_Serialize -->
+        <test-method signature="selectable_defaultFunctionality()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" started-at="2020-11-23T03:59:30Z" name="selectable_defaultFunctionality" finished-at="2020-11-23T03:59:31Z" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectable_defaultFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case6_Selectable_Test@6caf0677]" started-at="2020-11-23T03:59:31Z" name="tearDown" finished-at="2020-11-23T03:59:31Z" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case6_Selectable_Test -->
+      <class name="Assignment1.Case7_Gillette_Test">
+        <test-method signature="loginIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T03:59:31Z" name="loginIn" data-provider="getTestData_SignIn" finished-at="2020-11-23T03:59:49Z" duration-ms="17900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.gillette.co.in/en-in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[JohnCater1993@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdet@2020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T03:59:49Z" name="tearDown" finished-at="2020-11-23T03:59:50Z" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginIn(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T03:59:50Z" name="loginIn" data-provider="getTestData_SignIn" finished-at="2020-11-23T04:00:02Z" duration-ms="12347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.gillette.de/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MichelJames121991@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sdet@2020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Michel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T04:00:02Z" name="tearDown" finished-at="2020-11-23T04:00:03Z" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T04:00:03Z" name="register" data-provider="getTestData" finished-at="2020-11-23T04:00:20Z" duration-ms="17041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.gillette.co.in/en-in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cater]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[CaterJohn12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sdet@2020]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1993]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[560079]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T04:00:20Z" name="tearDown" finished-at="2020-11-23T04:00:21Z" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="register(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T04:00:21Z" name="register" data-provider="getTestData" finished-at="2020-11-23T04:00:32Z" duration-ms="11334" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.gillette.de/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Michel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[JamesMichel12@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sdet@2020]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1991]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[560080]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case7_Gillette_Test@413d1baf]" started-at="2020-11-23T04:00:32Z" name="tearDown" finished-at="2020-11-23T04:00:33Z" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case7_Gillette_Test -->
+      <class name="Assignment1.Case4_Frames_Test">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" started-at="2020-11-23T03:58:15Z" name="initializeBrowser" finished-at="2020-11-23T03:58:22Z" duration-ms="6479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="multipleFrames_validation(java.lang.String)[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" started-at="2020-11-23T03:58:22Z" name="multipleFrames_validation" data-provider="getTestData_MultipleFrames" finished-at="2020-11-23T03:58:23Z" duration-ms="1596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Single Frame Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleFrames_validation -->
+        <test-method signature="sigleIframe_validation(java.lang.String)[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" started-at="2020-11-23T03:58:23Z" name="sigleIframe_validation" data-provider="getTestData_SingleFrame" finished-at="2020-11-23T03:58:24Z" duration-ms="468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Single Frame Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sigleIframe_validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case4_Frames_Test@5b218417]" started-at="2020-11-23T03:58:24Z" name="tearDown" finished-at="2020-11-23T03:58:25Z" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case4_Frames_Test -->
+      <class name="Assignment1.Case5_DatePicker_test">
+        <test-method is-config="true" signature="launchBrowser_NavigateToUrl()[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:25Z" name="launchBrowser_NavigateToUrl" finished-at="2020-11-23T03:58:32Z" duration-ms="7740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser_NavigateToUrl -->
+        <test-method signature="datePickerDisabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:32Z" name="datePickerDisabled_SelectDate" data-provider="getTestData_DatePickerDisabled" finished-at="2020-11-23T03:58:34Z" duration-ms="1977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[01/23/2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerDisabled_SelectDate -->
+        <test-method signature="datePickerDisabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:34Z" name="datePickerDisabled_SelectDate" data-provider="getTestData_DatePickerDisabled" finished-at="2020-11-23T03:58:36Z" duration-ms="1638" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[09/20/2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerDisabled_SelectDate -->
+        <test-method signature="datePickerDisabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:36Z" name="datePickerDisabled_SelectDate" data-provider="getTestData_DatePickerDisabled" finished-at="2020-11-23T03:58:41Z" duration-ms="4699" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[03/20/2024]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerDisabled_SelectDate -->
+        <test-method signature="datePickerDisabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:41Z" name="datePickerDisabled_SelectDate" data-provider="getTestData_DatePickerDisabled" finished-at="2020-11-23T03:58:55Z" duration-ms="14271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[05/19/2010]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerDisabled_SelectDate -->
+        <test-method signature="datePickerEnabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:55Z" name="datePickerEnabled_SelectDate" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:58:58Z" duration-ms="2916" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[05/05/2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate -->
+        <test-method signature="datePickerEnabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:58:58Z" name="datePickerEnabled_SelectDate" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:01Z" duration-ms="2876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[07/29/2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate -->
+        <test-method signature="datePickerEnabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:01Z" name="datePickerEnabled_SelectDate" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:01Z" duration-ms="696" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[02/11/1993]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LT8N4FN4', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62555}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f8d3057748956c081a2f455a787ae5ca]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LT8N4FN4', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62555}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f8d3057748956c081a2f455a787ae5ca
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at utilities.Utilities.clickElement(Utilities.java:31)
+at pageObjects.DatePicker_Page.selectDate_DatePicker(DatePicker_Page.java:137)
+at pageObjects.DatePicker_Page.selectDate_EnabledDatePicker(DatePicker_Page.java:56)
+at Assignment1.Case5_DatePicker_test.datePickerEnabled_SelectDate(Case5_DatePicker_test.java:53)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate -->
+        <test-method signature="datePickerEnabled_SelectDate(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:01Z" name="datePickerEnabled_SelectDate" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:09Z" duration-ms="7736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[02/29/2016]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate -->
+        <test-method signature="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:09Z" name="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:12Z" duration-ms="2960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[05/05/2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate_SelectMonthYearFromDropDown -->
+        <test-method signature="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:12Z" name="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:14Z" duration-ms="2192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[07/29/2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate_SelectMonthYearFromDropDown -->
+        <test-method signature="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:14Z" name="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:17Z" duration-ms="2850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[02/11/1993]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate_SelectMonthYearFromDropDown -->
+        <test-method signature="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown(java.lang.String)[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:17Z" name="datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" data-provider="getTestData_DatePickerEnabled" finished-at="2020-11-23T03:59:20Z" duration-ms="2394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[02/29/2016]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerEnabled_SelectDate_SelectMonthYearFromDropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case5_DatePicker_test@645aa696]" started-at="2020-11-23T03:59:20Z" name="tearDown" finished-at="2020-11-23T03:59:20Z" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case5_DatePicker_test -->
+      <class name="Assignment1.Case1_Register_Test">
+        <test-method is-config="true" signature="launchBrowser_NavigateToUrl()[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" started-at="2020-11-23T03:55:58Z" name="launchBrowser_NavigateToUrl" finished-at="2020-11-23T03:56:12Z" duration-ms="14243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser_NavigateToUrl -->
+        <test-method signature="refreshRegisterPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" started-at="2020-11-23T03:56:12Z" name="refreshRegisterPage" data-provider="getTestData" finished-at="2020-11-23T03:56:14Z" duration-ms="1692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bengaluru]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc123456@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234564898]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Cricket||Movies]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1993]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[November]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Abc@1993]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Abc@1993]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refreshRegisterPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" started-at="2020-11-23T03:56:14Z" name="tearDown" finished-at="2020-11-23T03:56:14Z" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchBrowser_NavigateToUrl()[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" started-at="2020-11-23T03:56:14Z" name="launchBrowser_NavigateToUrl" finished-at="2020-11-23T03:56:29Z" duration-ms="14338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser_NavigateToUrl -->
+        <test-method signature="registerNewUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" started-at="2020-11-23T03:56:29Z" name="registerNewUser" data-provider="getTestData" finished-at="2020-11-23T03:57:32Z" duration-ms="63515" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bengaluru]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc123456@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234564898]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Cricket||Movies]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1993]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[November]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Abc@1993]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Abc@1993]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout: Timed out receiving message from renderer: 60.000
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LT8N4FN4', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c96a1e8d485fea3e59ebed1ae324bc5a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 60.000
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LT8N4FN4', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c96a1e8d485fea3e59ebed1ae324bc5a
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
+at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:132)
+at org.openqa.selenium.support.ui.ExpectedConditions$4.apply(ExpectedConditions.java:127)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+at pageObjects.WebTable_Page.verify_RegisteredUser(WebTable_Page.java:25)
+at Assignment1.Case1_Register_Test.registerNewUser(Case1_Register_Test.java:44)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case1_Register_Test@5e2c3d18]" started-at="2020-11-23T03:57:32Z" name="tearDown" finished-at="2020-11-23T03:57:33Z" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case1_Register_Test -->
+      <class name="Assignment1.Case2_Alerts_Test">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" started-at="2020-11-23T03:57:33Z" name="initializeBrowser" finished-at="2020-11-23T03:57:40Z" duration-ms="7339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="verifyAlertWithOKBtn()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" started-at="2020-11-23T03:57:40Z" name="verifyAlertWithOKBtn" finished-at="2020-11-23T03:57:41Z" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertWithOKBtn -->
+        <test-method signature="verifyAlertWithOKCancelBtn()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" started-at="2020-11-23T03:57:41Z" name="verifyAlertWithOKCancelBtn" finished-at="2020-11-23T03:57:42Z" duration-ms="738" status="FAIL">
+          <exception class="org.openqa.selenium.NoAlertPresentException">
+            <message>
+              <![CDATA[no such alert
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LT8N4FN4', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 287cd8f2207b3c6baa686ab7fcd5ae8a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=86.0.4240.198)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-LT8N4FN4', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.198, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\Vinod\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 287cd8f2207b3c6baa686ab7fcd5ae8a
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:932)
+at pageObjects.Alerts_Page.verify_AlertWithOKCancelBtn(Alerts_Page.java:57)
+at Assignment1.Case2_Alerts_Test.verifyAlertWithOKCancelBtn(Case2_Alerts_Test.java:34)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoAlertPresentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertWithOKCancelBtn -->
+        <test-method signature="verifyAlertWithTextBox(java.lang.String)[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" started-at="2020-11-23T03:57:42Z" name="verifyAlertWithTextBox" data-provider="getTestData" finished-at="2020-11-23T03:57:42Z" duration-ms="458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vinod]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlertWithTextBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case2_Alerts_Test@2cb4893b]" started-at="2020-11-23T03:57:42Z" name="tearDown" finished-at="2020-11-23T03:57:43Z" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case2_Alerts_Test -->
+      <class name="Assignment1.Case3_Windows_Test">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:57:43Z" name="initializeBrowser" finished-at="2020-11-23T03:57:49Z" duration-ms="6537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="openNewSeperateWindow()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:57:49Z" name="openNewSeperateWindow" finished-at="2020-11-23T03:57:52Z" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewSeperateWindow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:57:52Z" name="tearDown" finished-at="2020-11-23T03:57:53Z" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:57:53Z" name="initializeBrowser" finished-at="2020-11-23T03:57:59Z" duration-ms="6566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="openNewTabbedWindow()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:57:59Z" name="openNewTabbedWindow" finished-at="2020-11-23T03:58:02Z" duration-ms="2401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewTabbedWindow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:58:02Z" name="tearDown" finished-at="2020-11-23T03:58:03Z" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:58:03Z" name="initializeBrowser" finished-at="2020-11-23T03:58:09Z" duration-ms="6399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="openSeperateMultipleWindows()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:58:09Z" name="openSeperateMultipleWindows" finished-at="2020-11-23T03:58:14Z" duration-ms="5083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSeperateMultipleWindows -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment1.Case3_Windows_Test@cc43f62]" started-at="2020-11-23T03:58:14Z" name="tearDown" finished-at="2020-11-23T03:58:15Z" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment1.Case3_Windows_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

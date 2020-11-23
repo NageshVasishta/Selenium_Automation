@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="resources.ListenerTest"/>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="positive"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Assignment1.Case5_DatePicker_test">
+        <methods>
+          <include name="datePickerEnabled_SelectDate" invocation-numbers="2"/>
+          <include name="tearDown"/>
+          <include name="launchBrowser_NavigateToUrl"/>
+        </methods>
+      </class> <!-- Assignment1.Case5_DatePicker_test -->
+      <class name="Assignment1.Case1_Register_Test">
+        <methods>
+          <include name="launchBrowser_NavigateToUrl"/>
+          <include name="tearDown"/>
+          <include name="registerNewUser" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Assignment1.Case1_Register_Test -->
+      <class name="Assignment1.Case2_Alerts_Test">
+        <methods>
+          <include name="verifyAlertWithOKCancelBtn"/>
+          <include name="initializeBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Assignment1.Case2_Alerts_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

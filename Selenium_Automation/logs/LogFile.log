@@ -1,0 +1,345 @@
+09:28:54.457 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:54.543 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:54.640 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:54.721 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:54.802 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:54.882 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:54.966 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:55.043 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:55.122 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:55.399 [main] INFO  utilities.Log - Date "05/19/2010" is selected in the DatePicker Disabled
+09:28:55.400 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerDisabled_SelectDate
+09:28:55.400 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:28:55.400 [main] INFO  utilities.Log - X
+09:28:55.400 [main] INFO  utilities.Log - X
+09:28:55.400 [main] INFO  utilities.Log - X
+09:28:55.400 [main] INFO  utilities.Log - X
+09:28:55.431 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:55.431 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:55.431 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:28:55.431 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:55.431 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:56.473 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:28:56.676 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:57.537 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:57.651 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:57.753 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:57.850 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:57.950 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:58.346 [main] INFO  utilities.Log - Date "05/05/2020" is selected in the DatePicker Enabled
+09:28:58.347 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+09:28:58.347 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:28:58.347 [main] INFO  utilities.Log - X
+09:28:58.347 [main] INFO  utilities.Log - X
+09:28:58.347 [main] INFO  utilities.Log - X
+09:28:58.347 [main] INFO  utilities.Log - X
+09:28:58.347 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:58.347 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:58.347 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:28:58.347 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:58.347 [main] INFO  utilities.Log - ****************************************************************************************
+09:28:59.008 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:28:59.741 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:28:59.941 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:00.603 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:00.761 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:01.223 [main] INFO  utilities.Log - Date "07/29/2020" is selected in the DatePicker Enabled
+09:29:01.224 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+09:29:01.224 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:01.225 [main] INFO  utilities.Log - X
+09:29:01.225 [main] INFO  utilities.Log - X
+09:29:01.225 [main] INFO  utilities.Log - X
+09:29:01.225 [main] INFO  utilities.Log - X
+09:29:01.227 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.227 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.227 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:01.227 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.227 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.923 [main] ERROR utilities.Log - The name of the testcase Failed is :datePickerEnabled_SelectDate
+09:29:01.923 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:01.924 [main] INFO  utilities.Log - X
+09:29:01.924 [main] INFO  utilities.Log - X
+09:29:01.924 [main] INFO  utilities.Log - X
+09:29:01.924 [main] INFO  utilities.Log - X
+09:29:01.925 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.926 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.926 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:01.926 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:01.926 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:03.657 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:29:03.813 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:03.924 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.026 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.125 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.208 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.305 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.394 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.483 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.576 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.672 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.842 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:04.935 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:05.085 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:05.220 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:05.369 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:05.759 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:05.845 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:05.948 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.032 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.126 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.218 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.303 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.382 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.469 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.559 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.644 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.730 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.816 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.903 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:06.996 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.115 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.203 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.296 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.378 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.464 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.550 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.636 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.723 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.816 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.905 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:07.990 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.074 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.172 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.258 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.343 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.428 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.512 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.616 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.701 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.780 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.876 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:08.960 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:09.042 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:09.134 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:09.213 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:09.296 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:09.382 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+09:29:09.660 [main] INFO  utilities.Log - Date "02/29/2016" is selected in the DatePicker Enabled
+09:29:09.660 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+09:29:09.660 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:09.660 [main] INFO  utilities.Log - X
+09:29:09.660 [main] INFO  utilities.Log - X
+09:29:09.660 [main] INFO  utilities.Log - X
+09:29:09.660 [main] INFO  utilities.Log - X
+09:29:09.691 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:09.691 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:09.691 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:09.691 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:09.691 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:11.810 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:29:12.649 [main] INFO  utilities.Log - Date "05/05/2020" is selected in the DatePicker Enabled
+09:29:12.652 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+09:29:12.652 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:12.652 [main] INFO  utilities.Log - X
+09:29:12.652 [main] INFO  utilities.Log - X
+09:29:12.652 [main] INFO  utilities.Log - X
+09:29:12.652 [main] INFO  utilities.Log - X
+09:29:12.653 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:12.653 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:12.654 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:12.654 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:12.654 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:13.641 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:29:14.844 [main] INFO  utilities.Log - Date "07/29/2020" is selected in the DatePicker Enabled
+09:29:14.844 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+09:29:14.844 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:14.844 [main] INFO  utilities.Log - X
+09:29:14.844 [main] INFO  utilities.Log - X
+09:29:14.844 [main] INFO  utilities.Log - X
+09:29:14.844 [main] INFO  utilities.Log - X
+09:29:14.845 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:14.845 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:14.845 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:14.845 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:14.845 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:15.563 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:29:17.694 [main] INFO  utilities.Log - Date "02/11/1993" is selected in the DatePicker Enabled
+09:29:17.694 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+09:29:17.694 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:17.694 [main] INFO  utilities.Log - X
+09:29:17.694 [main] INFO  utilities.Log - X
+09:29:17.694 [main] INFO  utilities.Log - X
+09:29:17.694 [main] INFO  utilities.Log - X
+09:29:17.695 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:17.695 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:17.695 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:17.695 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:17.695 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:18.622 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+09:29:20.088 [main] INFO  utilities.Log - Date "02/29/2016" is selected in the DatePicker Enabled
+09:29:20.089 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+09:29:20.089 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:20.089 [main] INFO  utilities.Log - X
+09:29:20.089 [main] INFO  utilities.Log - X
+09:29:20.089 [main] INFO  utilities.Log - X
+09:29:20.089 [main] INFO  utilities.Log - X
+09:29:27.342 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Selectable.html
+09:29:27.347 [main] INFO  utilities.Log - Selectable Page is displayed
+09:29:27.349 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:27.350 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:27.350 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "selectable_Serialize" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:27.350 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:27.350 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:27.562 [main] INFO  utilities.Log - Clicked on Serialize tab
+09:29:27.646 [main] INFO  utilities.Log - Clicked on Sakinalium - Readability
+09:29:27.656 [main] INFO  utilities.Log - Sakinalium - Readability is selected
+09:29:27.688 [main] INFO  utilities.Log - The message 'You've selected: Readability is displayed
+09:29:28.008 [main] INFO  utilities.Log - Clicked on Sakinalium - Single Line Coding
+09:29:28.015 [main] INFO  utilities.Log - Sakinalium - Single Line Coding is selected
+09:29:28.179 [main] INFO  utilities.Log - The message 'You've selected: Single Line Coding is displayed
+09:29:28.220 [main] INFO  utilities.Log - Clicked on Sakinalium - Method Chaining
+09:29:28.230 [main] INFO  utilities.Log - Sakinalium - Method Chaining is selected
+09:29:28.260 [main] INFO  utilities.Log - The message 'You've selected: Method Chaining is displayed
+09:29:28.302 [main] INFO  utilities.Log - Clicked on Sakinalium - Cross Browser Testing
+09:29:28.309 [main] INFO  utilities.Log - Sakinalium - Cross Browser Testing is selected
+09:29:28.339 [main] INFO  utilities.Log - The message 'You've selected: Cross Browser Testing is displayed
+09:29:28.392 [main] INFO  utilities.Log - Clicked on Sakinalium - Extent Reports
+09:29:28.403 [main] INFO  utilities.Log - Sakinalium - Extent Reports is selected
+09:29:28.439 [main] INFO  utilities.Log - The message 'You've selected: Extent Reports is displayed
+09:29:28.482 [main] INFO  utilities.Log - Clicked on Sakinalium - Data Driven Testing
+09:29:28.489 [main] INFO  utilities.Log - Sakinalium - Data Driven Testing is selected
+09:29:28.522 [main] INFO  utilities.Log - The message 'You've selected: Data Driven Testing is displayed
+09:29:28.561 [main] INFO  utilities.Log - Clicked on Sakinalium - Functional Testing
+09:29:28.567 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:28.590 [main] INFO  utilities.Log - The message 'You've selected: Functional Testing is displayed
+09:29:29.186 [main] INFO  utilities.Log - Clicked on Serialize tab
+09:29:29.240 [main] INFO  utilities.Log - Clicked on Sakinalium - Readability
+09:29:29.567 [main] INFO  utilities.Log - Clicked on Sakinalium - Single Line Coding
+09:29:29.788 [main] INFO  utilities.Log - Clicked on Sakinalium - Method Chaining
+09:29:29.925 [main] INFO  utilities.Log - Clicked on Sakinalium - Cross Browser Testing
+09:29:30.284 [main] INFO  utilities.Log - Clicked on Sakinalium - Extent Reports
+09:29:30.419 [main] INFO  utilities.Log - Clicked on Sakinalium - Data Driven Testing
+09:29:30.561 [main] INFO  utilities.Log - Clicked on Sakinalium - Functional Testing
+09:29:30.582 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.591 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.599 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.620 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.626 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.634 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.641 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:30.641 [main] INFO  utilities.Log - Selected all the tabs
+09:29:30.674 [main] INFO  utilities.Log - You've selected: Readability , Single Line Coding , Method Chaining , Cross Browser Testing , Extent Reports , Data Driven Testing , Functional Testing is displayed
+09:29:30.675 [main] INFO  utilities.Log - The name of the testcase passed is :selectable_Serialize
+09:29:30.675 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:30.675 [main] INFO  utilities.Log - X
+09:29:30.675 [main] INFO  utilities.Log - X
+09:29:30.675 [main] INFO  utilities.Log - X
+09:29:30.675 [main] INFO  utilities.Log - X
+09:29:30.676 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:30.676 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:30.676 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "selectable_defaultFunctionality" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:30.676 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:30.676 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:30.770 [main] INFO  utilities.Log - Clicked on Default Functionality tab
+09:29:30.825 [main] INFO  utilities.Log - Clicked on Sakinalium - Readability
+09:29:30.832 [main] INFO  utilities.Log - Sakinalium - Readability is selected
+09:29:30.868 [main] INFO  utilities.Log - Clicked on Sakinalium - Single Line Coding
+09:29:30.874 [main] INFO  utilities.Log - Sakinalium - Single Line Coding is selected
+09:29:30.908 [main] INFO  utilities.Log - Clicked on Sakinalium - Method Chaining
+09:29:30.914 [main] INFO  utilities.Log - Sakinalium - Method Chaining is selected
+09:29:30.949 [main] INFO  utilities.Log - Clicked on Sakinalium - Cross Browser Testing
+09:29:30.957 [main] INFO  utilities.Log - Sakinalium - Cross Browser Testing is selected
+09:29:30.990 [main] INFO  utilities.Log - Clicked on Sakinalium - Extent Reports
+09:29:30.997 [main] INFO  utilities.Log - Sakinalium - Extent Reports is selected
+09:29:31.034 [main] INFO  utilities.Log - Clicked on Sakinalium - Data Driven Testing
+09:29:31.041 [main] INFO  utilities.Log - Sakinalium - Data Driven Testing is selected
+09:29:31.072 [main] INFO  utilities.Log - Clicked on Sakinalium - Functional Testing
+09:29:31.079 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+09:29:31.080 [main] INFO  utilities.Log - The name of the testcase passed is :selectable_defaultFunctionality
+09:29:31.080 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:31.080 [main] INFO  utilities.Log - X
+09:29:31.080 [main] INFO  utilities.Log - X
+09:29:31.080 [main] INFO  utilities.Log - X
+09:29:31.080 [main] INFO  utilities.Log - X
+09:29:31.752 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:31.753 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:31.753 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "loginIn" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:31.753 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:31.753 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:40.607 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.co.in/en-in
+09:29:40.620 [main] INFO  utilities.Log - Gillete Home Page is displayed
+09:29:42.627 [main] INFO  utilities.Log - Clicked on SIGN IN
+09:29:42.791 [main] INFO  utilities.Log - Entered Email address: JohnCater1993@gmail.com
+09:29:42.884 [main] INFO  utilities.Log - Entered Password: sdet@2020
+09:29:49.636 [main] INFO  utilities.Log - Clicked on SIGN IN
+09:29:49.651 [main] INFO  utilities.Log - 'View Profile' Page is displayed
+09:29:49.652 [main] INFO  utilities.Log - The name of the testcase passed is :loginIn
+09:29:49.652 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:29:49.652 [main] INFO  utilities.Log - X
+09:29:49.652 [main] INFO  utilities.Log - X
+09:29:49.652 [main] INFO  utilities.Log - X
+09:29:49.652 [main] INFO  utilities.Log - X
+09:29:50.337 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:50.337 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:50.337 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "loginIn" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:29:50.337 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:50.337 [main] INFO  utilities.Log - ****************************************************************************************
+09:29:59.057 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.de/
+09:29:59.064 [main] INFO  utilities.Log - Gillete Home Page is displayed
+09:30:00.963 [main] INFO  utilities.Log - Clicked on LOG IN
+09:30:01.131 [main] INFO  utilities.Log - Entered Email address: MichelJames121991@gmail.com
+09:30:01.246 [main] INFO  utilities.Log - Entered Password: Sdet@2020
+09:30:02.536 [main] INFO  utilities.Log - Clicked on LOG IN
+09:30:02.683 [main] INFO  utilities.Log - Account holder name 'Michel' is displayed
+09:30:02.683 [main] INFO  utilities.Log - The name of the testcase passed is :loginIn
+09:30:02.683 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:30:02.683 [main] INFO  utilities.Log - X
+09:30:02.683 [main] INFO  utilities.Log - X
+09:30:02.683 [main] INFO  utilities.Log - X
+09:30:02.684 [main] INFO  utilities.Log - X
+09:30:03.382 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:03.382 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:03.382 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "register" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:30:03.382 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:03.382 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:11.723 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.co.in/en-in
+09:30:11.739 [main] INFO  utilities.Log - Gillete Home Page is displayed
+09:30:15.241 [main] INFO  utilities.Log - Clicked on Register
+09:30:15.382 [main] INFO  utilities.Log - Entered FIRSTNAME: John
+09:30:15.493 [main] INFO  utilities.Log - Entered LAST NAME: Cater
+09:30:15.608 [main] INFO  utilities.Log - Selected '12' from BIRTHDATE Month drop down
+09:30:15.711 [main] INFO  utilities.Log - Selected '1993' from BIRTHDATE Year drop down
+09:30:15.830 [main] INFO  utilities.Log - Entered ZIP CODE: 560079
+09:30:15.973 [main] INFO  utilities.Log - Entered EMAIL: CaterJohn12Dbt@gmail.com
+09:30:16.092 [main] INFO  utilities.Log - Entered Password: sdet@2020
+09:30:16.209 [main] INFO  utilities.Log - Entered Confirm Password: sdet@2020
+09:30:20.388 [main] INFO  utilities.Log - Clicked on CreateProfile/Register button
+09:30:20.422 [main] INFO  utilities.Log - 'Your Registration Is Complete' message is displayed
+09:30:20.423 [main] INFO  utilities.Log - The name of the testcase passed is :register
+09:30:20.423 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:30:20.423 [main] INFO  utilities.Log - X
+09:30:20.423 [main] INFO  utilities.Log - X
+09:30:20.423 [main] INFO  utilities.Log - X
+09:30:20.423 [main] INFO  utilities.Log - X
+09:30:21.098 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:21.098 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:21.099 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "register" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+09:30:21.099 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:21.099 [main] INFO  utilities.Log - ****************************************************************************************
+09:30:28.867 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.de/
+09:30:28.874 [main] INFO  utilities.Log - Gillete Home Page is displayed
+09:30:29.697 [main] INFO  utilities.Log - Clicked on Registrieren
+09:30:30.065 [main] INFO  utilities.Log - Entered Full Name: Michel James
+09:30:30.188 [main] INFO  utilities.Log - Entered Confirm email address: JamesMichel12iVD@gmail.com
+09:30:30.414 [main] INFO  utilities.Log - Clicked on Receive Email for Offers Yes radio button
+09:30:30.562 [main] INFO  utilities.Log - Entered EMAIL: JamesMichel12iVD@gmail.com
+09:30:30.697 [main] INFO  utilities.Log - Entered Password: Sdet@2020
+09:30:30.859 [main] INFO  utilities.Log - Entered Confirm Password: Sdet@2020
+09:30:32.286 [main] INFO  utilities.Log - Clicked on CreateProfile/Register button
+09:30:32.431 [main] INFO  utilities.Log - Account holder name 'Michel' is displayed
+09:30:32.431 [main] INFO  utilities.Log - The name of the testcase passed is :register
+09:30:32.431 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+09:30:32.432 [main] INFO  utilities.Log - X
+09:30:32.432 [main] INFO  utilities.Log - X
+09:30:32.432 [main] INFO  utilities.Log - X
+09:30:32.432 [main] INFO  utilities.Log - X

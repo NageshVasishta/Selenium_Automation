@@ -1,0 +1,1217 @@
+20:40:32.876 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:32.964 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.049 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.135 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.226 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.317 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.408 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.497 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.585 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.675 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.771 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.863 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:33.954 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.040 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.133 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.256 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.367 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.455 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.555 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.642 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.730 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.830 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:34.929 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.020 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.112 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.208 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.294 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.379 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.472 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.557 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.661 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:35.752 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+20:40:36.080 [main] INFO  utilities.Log - Date "03/20/2024" is selected in the DatePicker Disabled
+20:40:36.081 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerDisabled_SelectDate
+20:40:36.081 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:40:36.081 [main] INFO  utilities.Log - X
+20:40:36.081 [main] INFO  utilities.Log - X
+20:40:36.081 [main] INFO  utilities.Log - X
+20:40:36.081 [main] INFO  utilities.Log - X
+20:40:36.081 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:36.081 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:36.081 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerDisabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:40:36.081 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:36.081 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:36.169 [main] INFO  utilities.Log - Clicked on DatePicker Disabled
+20:40:36.287 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.386 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.482 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.571 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.666 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.753 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.853 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:36.940 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.030 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.119 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.209 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.308 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.407 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.503 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.601 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.695 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.787 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.875 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:37.976 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.066 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.155 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.243 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.329 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.420 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.509 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.596 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.683 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.777 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.873 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:38.959 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.046 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.136 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.227 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.314 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.403 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.489 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.584 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.672 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.757 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.853 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:39.941 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.028 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.116 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.205 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.302 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.391 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.478 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.569 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.660 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.751 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.851 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:40.955 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.042 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.139 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.242 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.335 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.424 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.514 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.617 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.721 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.818 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:41.941 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.041 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.136 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.223 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.310 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.399 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.498 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.616 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.705 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.810 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.903 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:42.992 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.084 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.190 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.276 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.367 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.455 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.540 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.629 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.718 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.820 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:43.921 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.009 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.099 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.186 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.281 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.378 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.471 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.564 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.660 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.751 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.846 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:44.940 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.027 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.115 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.203 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.294 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.389 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.494 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.580 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.670 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.759 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.848 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:45.939 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.027 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.117 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.207 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.293 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.382 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.480 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.570 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.663 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.749 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.841 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:46.941 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.028 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.119 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.206 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.298 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.386 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.477 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.567 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.655 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.746 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.839 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:47.929 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.022 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.117 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.218 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.312 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.407 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.497 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.587 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.679 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.770 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.860 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:48.950 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.039 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.128 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.216 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.306 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.391 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.478 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.571 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.659 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.746 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.838 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:49.927 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.017 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.109 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.201 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.291 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.378 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.471 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.562 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.653 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.743 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.842 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:50.949 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.042 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.131 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.218 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.310 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.402 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.494 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:51.840 [main] INFO  utilities.Log - Date "05/19/2010" is selected in the DatePicker Disabled
+20:40:51.840 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerDisabled_SelectDate
+20:40:51.840 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:40:51.840 [main] INFO  utilities.Log - X
+20:40:51.840 [main] INFO  utilities.Log - X
+20:40:51.840 [main] INFO  utilities.Log - X
+20:40:51.840 [main] INFO  utilities.Log - X
+20:40:51.884 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:51.884 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:51.884 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:40:51.884 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:51.884 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:53.500 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:40:53.675 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:53.808 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:54.261 [main] INFO  utilities.Log - Date "05/05/2020" is selected in the DatePicker Enabled
+20:40:54.261 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+20:40:54.261 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:40:54.261 [main] INFO  utilities.Log - X
+20:40:54.261 [main] INFO  utilities.Log - X
+20:40:54.261 [main] INFO  utilities.Log - X
+20:40:54.261 [main] INFO  utilities.Log - X
+20:40:54.261 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:54.261 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:54.261 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:40:54.262 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:54.262 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:54.943 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:40:55.961 [main] INFO  utilities.Log - Date "07/29/2020" is selected in the DatePicker Enabled
+20:40:55.961 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+20:40:55.961 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:40:55.961 [main] INFO  utilities.Log - X
+20:40:55.961 [main] INFO  utilities.Log - X
+20:40:55.961 [main] INFO  utilities.Log - X
+20:40:55.961 [main] INFO  utilities.Log - X
+20:40:55.962 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:55.962 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:55.962 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:40:55.962 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:55.962 [main] INFO  utilities.Log - ****************************************************************************************
+20:40:56.647 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:40:57.521 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:57.667 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:57.794 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:57.892 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:57.998 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.102 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.201 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.299 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.398 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.500 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.595 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.689 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.791 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.886 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:58.984 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.079 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.177 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.278 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.377 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.477 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.577 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.676 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.775 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:40:59.873 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.001 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.123 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.378 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.479 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.585 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.697 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.805 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:00.909 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.045 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.143 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.243 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.341 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.445 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.554 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.657 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.755 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.857 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:01.953 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.064 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.152 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.245 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.335 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.423 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.515 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.604 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.690 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.788 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.882 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:02.969 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.060 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.150 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.242 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.336 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.429 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.518 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.611 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.704 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.807 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.900 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:03.990 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.080 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.172 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.267 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.364 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.453 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.544 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.651 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.741 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.835 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:04.922 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.015 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.120 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.219 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.313 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.407 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.498 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.588 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.678 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.779 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.875 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:05.963 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.055 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.144 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.241 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.332 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.420 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.514 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.606 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.697 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.792 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:06.895 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.003 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.126 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.261 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.371 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.482 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.591 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.692 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.785 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.874 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:07.963 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.051 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.139 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.232 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.365 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.458 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.551 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.661 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.752 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.850 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:08.941 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.034 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.127 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.221 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.314 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.447 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.538 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.626 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.715 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.816 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:09.916 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.008 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.103 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.221 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.316 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.411 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.503 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.594 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.687 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.783 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.876 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:10.969 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.065 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.162 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.251 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.346 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.438 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.527 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.624 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.714 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.810 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.904 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:11.996 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.085 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.176 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.267 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.365 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.462 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.551 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.641 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.734 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.834 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:12.929 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.017 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.106 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.200 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.292 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.383 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.475 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.563 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.661 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.754 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.853 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:13.958 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.054 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.144 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.237 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.328 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.422 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.518 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.607 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.699 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.796 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.890 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:14.982 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.073 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.167 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.256 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.346 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.440 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.534 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.641 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.730 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.824 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:15.923 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.014 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.104 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.198 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.291 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.384 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.476 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.570 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.666 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.756 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.851 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:16.946 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.041 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.131 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.222 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.314 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.422 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.513 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.605 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.697 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.795 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.886 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:17.980 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.073 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.166 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.259 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.354 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.454 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.545 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.640 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.734 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.830 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:18.927 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.020 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.116 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.209 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.307 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.401 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.499 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.591 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.686 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.784 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.878 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:19.989 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.088 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.185 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.282 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.378 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.478 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.578 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.673 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.798 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.895 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:20.993 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.102 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.200 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.291 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.397 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.518 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.653 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.828 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:21.943 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.049 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.148 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.257 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.357 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.458 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.556 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.684 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.839 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:22.940 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.033 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.127 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.228 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.322 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.416 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.511 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.610 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.707 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.809 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:23.908 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.006 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.104 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.202 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.302 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.399 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.497 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.605 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.712 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.837 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:24.935 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.043 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.140 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.245 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.345 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.442 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.540 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.637 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.741 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.848 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:25.944 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.044 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.157 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.253 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.351 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.445 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.545 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.639 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.737 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.838 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:26.931 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.025 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.124 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.228 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.328 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.426 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.522 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.621 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.731 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.857 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:27.980 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.095 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.204 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.318 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.421 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.517 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.612 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.707 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.804 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:28.907 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.002 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.112 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.209 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.309 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.407 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.502 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.596 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.717 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.821 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:29.917 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:30.011 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:30.329 [main] INFO  utilities.Log - Date "02/11/1993" is selected in the DatePicker Enabled
+20:41:30.329 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+20:41:30.329 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:30.329 [main] INFO  utilities.Log - X
+20:41:30.329 [main] INFO  utilities.Log - X
+20:41:30.329 [main] INFO  utilities.Log - X
+20:41:30.329 [main] INFO  utilities.Log - X
+20:41:30.329 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:30.329 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:30.330 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:30.330 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:30.330 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:31.816 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:41:31.956 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:32.130 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:32.474 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:32.603 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:32.707 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:32.811 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:32.907 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.007 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.103 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.196 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.295 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.394 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.489 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.610 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.705 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.810 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:33.906 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.003 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.097 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.194 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.287 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.381 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.475 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.581 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.681 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.782 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.877 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:34.978 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.075 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.175 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.275 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.374 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.478 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.571 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.672 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.770 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.868 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:35.962 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.059 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.158 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.259 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.357 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.454 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.565 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.662 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.769 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.866 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:36.966 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:37.062 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:37.158 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:37.257 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:37.354 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:37.452 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+20:41:37.751 [main] INFO  utilities.Log - Date "02/29/2016" is selected in the DatePicker Enabled
+20:41:37.751 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate
+20:41:37.751 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:37.751 [main] INFO  utilities.Log - X
+20:41:37.751 [main] INFO  utilities.Log - X
+20:41:37.752 [main] INFO  utilities.Log - X
+20:41:37.752 [main] INFO  utilities.Log - X
+20:41:37.797 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:37.798 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:37.798 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:37.798 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:37.798 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:39.009 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:41:39.690 [main] INFO  utilities.Log - Date "05/05/2020" is selected in the DatePicker Enabled
+20:41:39.690 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+20:41:39.690 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:39.690 [main] INFO  utilities.Log - X
+20:41:39.690 [main] INFO  utilities.Log - X
+20:41:39.690 [main] INFO  utilities.Log - X
+20:41:39.690 [main] INFO  utilities.Log - X
+20:41:39.690 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:39.690 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:39.690 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:39.690 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:39.690 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:40.805 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:41:41.765 [main] INFO  utilities.Log - Date "07/29/2020" is selected in the DatePicker Enabled
+20:41:41.765 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+20:41:41.765 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:41.765 [main] INFO  utilities.Log - X
+20:41:41.765 [main] INFO  utilities.Log - X
+20:41:41.765 [main] INFO  utilities.Log - X
+20:41:41.765 [main] INFO  utilities.Log - X
+20:41:41.766 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:41.766 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:41.766 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:41.766 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:41.766 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:42.996 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:41:44.778 [main] INFO  utilities.Log - Date "02/11/1993" is selected in the DatePicker Enabled
+20:41:44.779 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+20:41:44.779 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:44.779 [main] INFO  utilities.Log - X
+20:41:44.779 [main] INFO  utilities.Log - X
+20:41:44.779 [main] INFO  utilities.Log - X
+20:41:44.779 [main] INFO  utilities.Log - X
+20:41:44.779 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:44.779 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:44.779 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerEnabled_SelectDate_SelectMonthYearFromDropDown" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:44.779 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:44.779 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:45.963 [main] INFO  utilities.Log - Clicked on DatePicker Enabled
+20:41:47.216 [main] INFO  utilities.Log - Date "02/29/2016" is selected in the DatePicker Enabled
+20:41:47.216 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerEnabled_SelectDate_SelectMonthYearFromDropDown
+20:41:47.216 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:47.216 [main] INFO  utilities.Log - X
+20:41:47.216 [main] INFO  utilities.Log - X
+20:41:47.216 [main] INFO  utilities.Log - X
+20:41:47.216 [main] INFO  utilities.Log - X
+20:41:54.534 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Selectable.html
+20:41:54.565 [main] INFO  utilities.Log - Selectable Page is displayed
+20:41:54.565 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:54.565 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:54.565 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "selectable_Serialize" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:54.565 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:54.565 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:54.767 [main] INFO  utilities.Log - Clicked on Serialize tab
+20:41:55.116 [main] INFO  utilities.Log - Clicked on Sakinalium - Readability
+20:41:55.129 [main] INFO  utilities.Log - Sakinalium - Readability is selected
+20:41:55.201 [main] INFO  utilities.Log - The message 'You've selected: Readability is displayed
+20:41:55.277 [main] INFO  utilities.Log - Clicked on Sakinalium - Single Line Coding
+20:41:55.290 [main] INFO  utilities.Log - Sakinalium - Single Line Coding is selected
+20:41:55.331 [main] INFO  utilities.Log - The message 'You've selected: Single Line Coding is displayed
+20:41:55.394 [main] INFO  utilities.Log - Clicked on Sakinalium - Method Chaining
+20:41:55.407 [main] INFO  utilities.Log - Sakinalium - Method Chaining is selected
+20:41:55.445 [main] INFO  utilities.Log - The message 'You've selected: Method Chaining is displayed
+20:41:55.495 [main] INFO  utilities.Log - Clicked on Sakinalium - Cross Browser Testing
+20:41:55.504 [main] INFO  utilities.Log - Sakinalium - Cross Browser Testing is selected
+20:41:55.544 [main] INFO  utilities.Log - The message 'You've selected: Cross Browser Testing is displayed
+20:41:55.598 [main] INFO  utilities.Log - Clicked on Sakinalium - Extent Reports
+20:41:55.610 [main] INFO  utilities.Log - Sakinalium - Extent Reports is selected
+20:41:55.657 [main] INFO  utilities.Log - The message 'You've selected: Extent Reports is displayed
+20:41:55.705 [main] INFO  utilities.Log - Clicked on Sakinalium - Data Driven Testing
+20:41:55.712 [main] INFO  utilities.Log - Sakinalium - Data Driven Testing is selected
+20:41:55.751 [main] INFO  utilities.Log - The message 'You've selected: Data Driven Testing is displayed
+20:41:55.801 [main] INFO  utilities.Log - Clicked on Sakinalium - Functional Testing
+20:41:55.809 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:55.891 [main] INFO  utilities.Log - The message 'You've selected: Functional Testing is displayed
+20:41:56.549 [main] INFO  utilities.Log - Clicked on Serialize tab
+20:41:56.631 [main] INFO  utilities.Log - Clicked on Sakinalium - Readability
+20:41:57.041 [main] INFO  utilities.Log - Clicked on Sakinalium - Single Line Coding
+20:41:57.443 [main] INFO  utilities.Log - Clicked on Sakinalium - Method Chaining
+20:41:57.575 [main] INFO  utilities.Log - Clicked on Sakinalium - Cross Browser Testing
+20:41:57.712 [main] INFO  utilities.Log - Clicked on Sakinalium - Extent Reports
+20:41:57.838 [main] INFO  utilities.Log - Clicked on Sakinalium - Data Driven Testing
+20:41:57.981 [main] INFO  utilities.Log - Clicked on Sakinalium - Functional Testing
+20:41:57.992 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.004 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.015 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.028 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.040 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.053 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.071 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.071 [main] INFO  utilities.Log - Selected all the tabs
+20:41:58.111 [main] INFO  utilities.Log - You've selected: Readability , Single Line Coding , Method Chaining , Cross Browser Testing , Extent Reports , Data Driven Testing , Functional Testing is displayed
+20:41:58.111 [main] INFO  utilities.Log - The name of the testcase passed is :selectable_Serialize
+20:41:58.111 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:58.111 [main] INFO  utilities.Log - X
+20:41:58.111 [main] INFO  utilities.Log - X
+20:41:58.111 [main] INFO  utilities.Log - X
+20:41:58.111 [main] INFO  utilities.Log - X
+20:41:58.112 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:58.112 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:58.112 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "selectable_defaultFunctionality" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:58.112 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:58.112 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:58.261 [main] INFO  utilities.Log - Clicked on Default Functionality tab
+20:41:58.329 [main] INFO  utilities.Log - Clicked on Sakinalium - Readability
+20:41:58.337 [main] INFO  utilities.Log - Sakinalium - Readability is selected
+20:41:58.390 [main] INFO  utilities.Log - Clicked on Sakinalium - Single Line Coding
+20:41:58.399 [main] INFO  utilities.Log - Sakinalium - Single Line Coding is selected
+20:41:58.444 [main] INFO  utilities.Log - Clicked on Sakinalium - Method Chaining
+20:41:58.453 [main] INFO  utilities.Log - Sakinalium - Method Chaining is selected
+20:41:58.506 [main] INFO  utilities.Log - Clicked on Sakinalium - Cross Browser Testing
+20:41:58.518 [main] INFO  utilities.Log - Sakinalium - Cross Browser Testing is selected
+20:41:58.568 [main] INFO  utilities.Log - Clicked on Sakinalium - Extent Reports
+20:41:58.577 [main] INFO  utilities.Log - Sakinalium - Extent Reports is selected
+20:41:58.628 [main] INFO  utilities.Log - Clicked on Sakinalium - Data Driven Testing
+20:41:58.635 [main] INFO  utilities.Log - Sakinalium - Data Driven Testing is selected
+20:41:58.682 [main] INFO  utilities.Log - Clicked on Sakinalium - Functional Testing
+20:41:58.691 [main] INFO  utilities.Log - Sakinalium - Functional Testing is selected
+20:41:58.691 [main] INFO  utilities.Log - The name of the testcase passed is :selectable_defaultFunctionality
+20:41:58.691 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:41:58.691 [main] INFO  utilities.Log - X
+20:41:58.691 [main] INFO  utilities.Log - X
+20:41:58.691 [main] INFO  utilities.Log - X
+20:41:58.691 [main] INFO  utilities.Log - X
+20:41:59.914 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:59.914 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:59.914 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "loginIn" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:59.914 [main] INFO  utilities.Log - ****************************************************************************************
+20:41:59.914 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:10.833 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.co.in/en-in
+20:42:10.853 [main] INFO  utilities.Log - Gillete Home Page is displayed
+20:42:13.674 [main] INFO  utilities.Log - Clicked on SIGN IN
+20:42:13.841 [main] INFO  utilities.Log - Entered Email address: JohnCater1993@gmail.com
+20:42:13.956 [main] INFO  utilities.Log - Entered Password: sdet@2020
+20:42:16.912 [main] INFO  utilities.Log - Clicked on SIGN IN
+20:42:16.925 [main] INFO  utilities.Log - 'View Profile' Page is displayed
+20:42:16.925 [main] INFO  utilities.Log - The name of the testcase passed is :loginIn
+20:42:16.925 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:42:16.925 [main] INFO  utilities.Log - X
+20:42:16.925 [main] INFO  utilities.Log - X
+20:42:16.926 [main] INFO  utilities.Log - X
+20:42:16.926 [main] INFO  utilities.Log - X
+20:42:17.634 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:17.634 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:17.634 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "loginIn" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:42:17.635 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:17.635 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:26.569 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.de/
+20:42:26.584 [main] INFO  utilities.Log - Gillete Home Page is displayed
+20:42:28.681 [main] INFO  utilities.Log - Clicked on LOG IN
+20:42:28.953 [main] INFO  utilities.Log - Entered Email address: MichelJames121991@gmail.com
+20:42:29.070 [main] INFO  utilities.Log - Entered Password: Sdet@2020
+20:42:30.067 [main] INFO  utilities.Log - Clicked on LOG IN
+20:42:30.388 [main] INFO  utilities.Log - Account holder name 'Michel' is displayed
+20:42:30.388 [main] INFO  utilities.Log - The name of the testcase passed is :loginIn
+20:42:30.388 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:42:30.388 [main] INFO  utilities.Log - X
+20:42:30.388 [main] INFO  utilities.Log - X
+20:42:30.388 [main] INFO  utilities.Log - X
+20:42:30.388 [main] INFO  utilities.Log - X
+20:42:31.096 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:31.096 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:31.096 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "register" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:42:31.096 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:31.096 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:40.719 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.co.in/en-in
+20:42:40.813 [main] INFO  utilities.Log - Gillete Home Page is displayed
+20:42:43.128 [main] INFO  utilities.Log - Clicked on Register
+20:42:43.256 [main] INFO  utilities.Log - Entered FIRSTNAME: John
+20:42:43.352 [main] INFO  utilities.Log - Entered LAST NAME: Cater
+20:42:43.447 [main] INFO  utilities.Log - Selected '12' from BIRTHDATE Month drop down
+20:42:43.537 [main] INFO  utilities.Log - Selected '1993' from BIRTHDATE Year drop down
+20:42:43.640 [main] INFO  utilities.Log - Entered ZIP CODE: 560079
+20:42:43.761 [main] INFO  utilities.Log - Entered EMAIL: CaterJohn12W31@gmail.com
+20:42:43.862 [main] INFO  utilities.Log - Entered Password: sdet@2020
+20:42:43.962 [main] INFO  utilities.Log - Entered Confirm Password: sdet@2020
+20:42:47.917 [main] INFO  utilities.Log - Clicked on CreateProfile/Register button
+20:42:47.999 [main] INFO  utilities.Log - 'Your Registration Is Complete' message is displayed
+20:42:48.000 [main] INFO  utilities.Log - The name of the testcase passed is :register
+20:42:48.000 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:42:48.000 [main] INFO  utilities.Log - X
+20:42:48.000 [main] INFO  utilities.Log - X
+20:42:48.000 [main] INFO  utilities.Log - X
+20:42:48.000 [main] INFO  utilities.Log - X
+20:42:48.689 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:48.689 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:48.689 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "register" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:42:48.689 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:48.689 [main] INFO  utilities.Log - ****************************************************************************************
+20:42:57.456 [main] DEBUG utilities.Log - Navigate to url https://www.gillette.de/
+20:42:57.478 [main] INFO  utilities.Log - Gillete Home Page is displayed
+20:42:59.122 [main] INFO  utilities.Log - Clicked on Registrieren
+20:42:59.444 [main] INFO  utilities.Log - Entered Full Name: Michel James
+20:42:59.577 [main] INFO  utilities.Log - Entered Confirm email address: JamesMichel12Eiv@gmail.com
+20:43:02.881 [main] INFO  utilities.Log - Clicked on Receive Email for Offers Yes radio button
+20:43:03.026 [main] INFO  utilities.Log - Entered EMAIL: JamesMichel12Eiv@gmail.com
+20:43:03.127 [main] INFO  utilities.Log - Entered Password: Sdet@2020
+20:43:03.222 [main] INFO  utilities.Log - Entered Confirm Password: Sdet@2020
+20:43:09.004 [main] INFO  utilities.Log - Clicked on CreateProfile/Register button
+20:43:09.285 [main] INFO  utilities.Log - Account holder name 'Michel' is displayed
+20:43:09.285 [main] INFO  utilities.Log - The name of the testcase passed is :register
+20:43:09.285 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+20:43:09.285 [main] INFO  utilities.Log - X
+20:43:09.285 [main] INFO  utilities.Log - X
+20:43:09.285 [main] INFO  utilities.Log - X
+20:43:09.285 [main] INFO  utilities.Log - X
+16:17:58.665 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Register.html
+16:17:58.803 [main] INFO  utilities.Log - Register Page is displayed
+16:17:58.804 [main] INFO  utilities.Log - ****************************************************************************************
+16:17:58.804 [main] INFO  utilities.Log - ****************************************************************************************
+16:17:58.804 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "refreshRegisterPage" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:17:58.804 [main] INFO  utilities.Log - ****************************************************************************************
+16:17:58.805 [main] INFO  utilities.Log - ****************************************************************************************
+16:17:59.021 [main] INFO  utilities.Log - Entered First Name: abc
+16:17:59.188 [main] INFO  utilities.Log - Entered Last Name: def
+16:17:59.331 [main] INFO  utilities.Log - Entered Address: Bengaluru
+16:17:59.471 [main] INFO  utilities.Log - Entered Email address: abc123456@gmail.com
+16:17:59.612 [main] INFO  utilities.Log - Entered Phone: 1234564898
+16:18:00.307 [main] INFO  utilities.Log - Clicked on Refresh button
+16:18:00.528 [main] INFO  utilities.Log - First Name field is empty
+16:18:00.551 [main] INFO  utilities.Log - Last Name field is empty
+16:18:00.572 [main] INFO  utilities.Log - Address field is empty
+16:18:00.626 [main] INFO  utilities.Log - Email address field is empty
+16:18:00.652 [main] INFO  utilities.Log - Phone field is empty
+16:18:00.654 [main] INFO  utilities.Log - The name of the testcase passed is :refreshRegisterPage
+16:18:00.655 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:00.655 [main] INFO  utilities.Log - X
+16:18:00.656 [main] INFO  utilities.Log - X
+16:18:00.656 [main] INFO  utilities.Log - X
+16:18:00.656 [main] INFO  utilities.Log - X
+16:18:09.695 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Register.html
+16:18:09.706 [main] INFO  utilities.Log - Register Page is displayed
+16:18:09.706 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:09.706 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:09.706 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "registerNewUser" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:09.707 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:09.707 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:10.005 [main] INFO  utilities.Log - Entered First Name: abc
+16:18:10.214 [main] INFO  utilities.Log - Entered Last Name: def
+16:18:10.369 [main] INFO  utilities.Log - Entered Address: Bengaluru
+16:18:10.642 [main] INFO  utilities.Log - Entered Email address: abc123456@gmail.com
+16:18:10.794 [main] INFO  utilities.Log - Entered Phone: 4925248631
+16:18:10.897 [main] INFO  utilities.Log - Clicked on Gender - Male Radio button
+16:18:10.994 [main] INFO  utilities.Log - Clicked on Hobbies - Cricket
+16:18:11.089 [main] INFO  utilities.Log - Clicked on Hobbies - Movies
+16:18:11.217 [main] INFO  utilities.Log - Clicked on LanguagesDrop Down
+16:18:11.355 [main] INFO  utilities.Log - Clicked on Languages - English
+16:18:11.442 [main] INFO  utilities.Log - Selected 'Java' from Skills drop down
+16:18:11.518 [main] INFO  utilities.Log - Selected 'India' from Country drop down
+16:18:11.629 [main] INFO  utilities.Log - Clicked on Select CountryDrop Down
+16:18:11.753 [main] INFO  utilities.Log - Clicked on Select Country - India
+16:18:11.846 [main] INFO  utilities.Log - Selected '1993' from Date of Birth - Year drop down
+16:18:11.926 [main] INFO  utilities.Log - Selected 'November' from Date of Birth - Month drop down
+16:18:12.002 [main] INFO  utilities.Log - Selected '15' from Date of Birth - Day drop down
+16:18:12.117 [main] INFO  utilities.Log - Entered Password: Abc@1993
+16:18:12.242 [main] INFO  utilities.Log - Entered Confirm Password: Abc@1993
+16:18:12.326 [main] INFO  utilities.Log - Clicked on Submit button
+16:18:15.271 [main] INFO  utilities.Log - 'Web Table' page is displayed
+16:18:15.272 [main] INFO  utilities.Log - The name of the testcase passed is :registerNewUser
+16:18:15.272 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:15.272 [main] INFO  utilities.Log - X
+16:18:15.273 [main] INFO  utilities.Log - X
+16:18:15.273 [main] INFO  utilities.Log - X
+16:18:15.273 [main] INFO  utilities.Log - X
+16:18:22.795 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Alerts.html
+16:18:22.828 [main] INFO  utilities.Log - Alerts Page is displayed
+16:18:22.828 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:22.828 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:22.828 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "verifyAlertWithOKBtn" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:22.829 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:22.829 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:23.404 [main] INFO  utilities.Log - Clicked on Alert with OK button
+16:18:23.579 [main] INFO  utilities.Log - Clicked on click the button to display an  alert box button
+16:18:23.589 [main] INFO  utilities.Log - Alert Message "I am an alert box!" is displayed
+16:18:23.601 [main] INFO  utilities.Log - Clicked on Ok button
+16:18:23.602 [main] INFO  utilities.Log - The name of the testcase passed is :verifyAlertWithOKBtn
+16:18:23.602 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:23.602 [main] INFO  utilities.Log - X
+16:18:23.603 [main] INFO  utilities.Log - X
+16:18:23.603 [main] INFO  utilities.Log - X
+16:18:23.603 [main] INFO  utilities.Log - X
+16:18:23.603 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:23.604 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:23.604 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "verifyAlertWithOKCancelBtn" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:23.604 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:23.604 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:23.862 [main] INFO  utilities.Log - Clicked on Alert with OK & Cancel
+16:18:23.985 [main] INFO  utilities.Log - Clicked on click the button to display a confirm box button
+16:18:23.989 [main] INFO  utilities.Log - Alert Message "Press a Button !" is displayed
+16:18:23.996 [main] INFO  utilities.Log - Clicked on Ok button
+16:18:24.044 [main] INFO  utilities.Log - Message "You pressed Ok" is displayed
+16:18:24.121 [main] INFO  utilities.Log - Clicked on click the button to display a confirm box button
+16:18:24.126 [main] INFO  utilities.Log - Clicked on Cancel button
+16:18:24.162 [main] INFO  utilities.Log - Message "You Pressed Cancel" is displayed
+16:18:24.162 [main] INFO  utilities.Log - The name of the testcase passed is :verifyAlertWithOKCancelBtn
+16:18:24.163 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:24.163 [main] INFO  utilities.Log - X
+16:18:24.163 [main] INFO  utilities.Log - X
+16:18:24.163 [main] INFO  utilities.Log - X
+16:18:24.163 [main] INFO  utilities.Log - X
+16:18:24.261 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:24.261 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:24.261 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "verifyAlertWithTextBox" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:24.261 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:24.261 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:24.408 [main] INFO  utilities.Log - Clicked on Alert with Textbox
+16:18:24.513 [main] INFO  utilities.Log - Clicked on click the button to demonstrate the prompt box button
+16:18:24.519 [main] INFO  utilities.Log - Alert Message "Please enter your name" is displayed
+16:18:24.519 [main] INFO  utilities.Log - Entered 'Vinod' in the prompt box
+16:18:24.533 [main] INFO  utilities.Log - Clicked on Ok button
+16:18:24.578 [main] INFO  utilities.Log - Message "Hello Vinod How are you today" is displayed
+16:18:24.659 [main] INFO  utilities.Log - Clicked on click the button to demonstrate the prompt box button
+16:18:24.664 [main] INFO  utilities.Log - Entered 'Vinod' in the prompt box
+16:18:24.677 [main] INFO  utilities.Log - Clicked on Cancel button
+16:18:24.717 [main] ERROR utilities.Log - No message is displayed
+16:18:24.718 [main] INFO  utilities.Log - The name of the testcase passed is :verifyAlertWithTextBox
+16:18:24.719 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:24.719 [main] INFO  utilities.Log - X
+16:18:24.719 [main] INFO  utilities.Log - X
+16:18:24.719 [main] INFO  utilities.Log - X
+16:18:24.719 [main] INFO  utilities.Log - X
+16:18:32.172 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Windows.html
+16:18:32.178 [main] INFO  utilities.Log - Page with title "Frames & windows" is displayed
+16:18:32.178 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:32.178 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:32.178 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "openNewSeperateWindow" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:32.178 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:32.178 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:32.373 [main] INFO  utilities.Log - Clicked on New Seperate Windows
+16:18:33.688 [main] INFO  utilities.Log - Clicked on Click button
+16:18:33.699 [main] INFO  utilities.Log - New Window is opened
+16:18:35.935 [main] INFO  utilities.Log - The name of the testcase passed is :openNewSeperateWindow
+16:18:35.935 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:35.935 [main] INFO  utilities.Log - X
+16:18:35.936 [main] INFO  utilities.Log - X
+16:18:35.936 [main] INFO  utilities.Log - X
+16:18:35.936 [main] INFO  utilities.Log - X
+16:18:43.340 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Windows.html
+16:18:43.345 [main] INFO  utilities.Log - Page with title "Frames & windows" is displayed
+16:18:43.345 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:43.346 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:43.346 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "openNewTabbedWindow" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:43.346 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:43.346 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:43.595 [main] INFO  utilities.Log - Clicked on Open New Tabbed Windows
+16:18:44.053 [main] INFO  utilities.Log - Clicked on Click button
+16:18:44.072 [main] INFO  utilities.Log - New Window is opened
+16:18:46.193 [main] INFO  utilities.Log - The name of the testcase passed is :openNewTabbedWindow
+16:18:46.193 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:46.194 [main] INFO  utilities.Log - X
+16:18:46.194 [main] INFO  utilities.Log - X
+16:18:46.194 [main] INFO  utilities.Log - X
+16:18:46.195 [main] INFO  utilities.Log - X
+16:18:53.468 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Windows.html
+16:18:53.472 [main] INFO  utilities.Log - Page with title "Frames & windows" is displayed
+16:18:53.472 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:53.473 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:53.473 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "openSeperateMultipleWindows" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:18:53.473 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:53.473 [main] INFO  utilities.Log - ****************************************************************************************
+16:18:53.671 [main] INFO  utilities.Log - Clicked on New Seperate Windows
+16:18:54.352 [main] INFO  utilities.Log - Clicked on Click button
+16:18:54.361 [main] INFO  utilities.Log - New Window is opened
+16:18:58.475 [main] INFO  utilities.Log - Multiple Windows are displayed
+16:18:58.475 [main] INFO  utilities.Log - The name of the testcase passed is :openSeperateMultipleWindows
+16:18:58.475 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:18:58.476 [main] INFO  utilities.Log - X
+16:18:58.476 [main] INFO  utilities.Log - X
+16:18:58.476 [main] INFO  utilities.Log - X
+16:18:58.476 [main] INFO  utilities.Log - X
+16:19:05.754 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Frames.html
+16:19:05.764 [main] INFO  utilities.Log - Page with title "Frames" is displayed
+16:19:05.819 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:05.819 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:05.819 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "multipleFrames_validation" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:19:05.819 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:05.819 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:06.334 [main] INFO  utilities.Log - Clicked on Iframe with in an Iframe tab
+16:19:06.399 [main] INFO  utilities.Log - Switch to Frame: Outer Frame
+16:19:06.441 [main] INFO  utilities.Log - Switch to Frame: Inner Frame
+16:19:06.570 [main] INFO  utilities.Log - Entered Text: Single Frame Testing
+16:19:06.609 [main] INFO  utilities.Log - The name of the testcase passed is :multipleFrames_validation
+16:19:06.609 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:19:06.609 [main] INFO  utilities.Log - X
+16:19:06.609 [main] INFO  utilities.Log - X
+16:19:06.609 [main] INFO  utilities.Log - X
+16:19:06.609 [main] INFO  utilities.Log - X
+16:19:06.663 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:06.664 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:06.664 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "sigleIframe_validation" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:19:06.664 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:06.664 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:06.846 [main] INFO  utilities.Log - Clicked on Single Iframe tab
+16:19:06.887 [main] INFO  utilities.Log - Switch to Frame: SingleFrame
+16:19:07.023 [main] INFO  utilities.Log - Entered Text: Single Frame Testing
+16:19:07.031 [main] INFO  utilities.Log - The name of the testcase passed is :sigleIframe_validation
+16:19:07.031 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:19:07.031 [main] INFO  utilities.Log - X
+16:19:07.031 [main] INFO  utilities.Log - X
+16:19:07.031 [main] INFO  utilities.Log - X
+16:19:07.031 [main] INFO  utilities.Log - X
+16:19:15.268 [main] DEBUG utilities.Log - Navigate to url http://demo.automationtesting.in/Datepicker.html
+16:19:15.376 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:15.376 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:15.376 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerDisabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:19:15.376 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:15.378 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:16.106 [main] INFO  utilities.Log - Clicked on DatePicker Disabled
+16:19:16.412 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:16.608 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:16.744 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:16.863 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:16.993 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:17.091 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:17.475 [main] INFO  utilities.Log - Date "01/23/2020" is selected in the DatePicker Disabled
+16:19:17.475 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerDisabled_SelectDate
+16:19:17.475 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:19:17.476 [main] INFO  utilities.Log - X
+16:19:17.476 [main] INFO  utilities.Log - X
+16:19:17.476 [main] INFO  utilities.Log - X
+16:19:17.476 [main] INFO  utilities.Log - X
+16:19:17.476 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:17.476 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:17.476 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerDisabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:19:17.476 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:17.476 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:17.588 [main] INFO  utilities.Log - Clicked on DatePicker Disabled
+16:19:17.755 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:17.862 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:17.966 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:18.076 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:18.167 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:18.261 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:18.351 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:18.451 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:18.791 [main] INFO  utilities.Log - Date "09/20/2020" is selected in the DatePicker Disabled
+16:19:18.791 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerDisabled_SelectDate
+16:19:18.792 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:19:18.792 [main] INFO  utilities.Log - X
+16:19:18.792 [main] INFO  utilities.Log - X
+16:19:18.792 [main] INFO  utilities.Log - X
+16:19:18.792 [main] INFO  utilities.Log - X
+16:19:18.792 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:18.792 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:18.792 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerDisabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:19:18.792 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:18.792 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:18.908 [main] INFO  utilities.Log - Clicked on DatePicker Disabled
+16:19:19.025 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.134 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.224 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.312 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.416 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.527 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.634 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.730 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.820 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:19.908 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.001 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.100 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.192 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.289 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.386 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.492 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.577 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.661 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.758 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.851 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:20.939 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.025 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.119 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.217 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.299 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.394 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.478 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.566 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.654 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.742 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.835 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:21.924 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.028 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.123 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.217 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.306 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.398 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.490 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.584 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.675 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.785 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:22.870 [main] INFO  utilities.Log - Clicked on Next Month Arrow
+16:19:23.222 [main] INFO  utilities.Log - Date "03/20/2024" is selected in the DatePicker Disabled
+16:19:23.223 [main] INFO  utilities.Log - The name of the testcase passed is :datePickerDisabled_SelectDate
+16:19:23.223 [main] INFO  utilities.Log - XXXXXXXXXXXXXXXXXXXXXXX       -E---N---D-           XXXXXXXXXXXXXXXXXXXXXX
+16:19:23.223 [main] INFO  utilities.Log - X
+16:19:23.223 [main] INFO  utilities.Log - X
+16:19:23.223 [main] INFO  utilities.Log - X
+16:19:23.223 [main] INFO  utilities.Log - X
+16:19:23.223 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:23.223 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:23.223 [main] INFO  utilities.Log - $$$$$$$$$$$$$$$$$$$$$       "datePickerDisabled_SelectDate" test case started       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:19:23.224 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:23.224 [main] INFO  utilities.Log - ****************************************************************************************
+16:19:23.320 [main] INFO  utilities.Log - Clicked on DatePicker Disabled
+16:19:23.424 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:23.534 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:23.624 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:23.715 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:23.799 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:23.888 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:23.972 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.075 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.183 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.279 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.375 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.471 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.558 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.652 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.742 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.832 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:24.923 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.009 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.100 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.189 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.282 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.370 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.472 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.569 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.658 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.747 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.832 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:25.919 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.025 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.109 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.191 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.278 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.369 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.467 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.552 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.652 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.784 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.870 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:26.950 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.036 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.120 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.210 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.299 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.381 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.467 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.553 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.639 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.724 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.821 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:27.921 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:28.010 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:28.099 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:28.186 [main] INFO  utilities.Log - Clicked on Previous Month Arrow
+16:19:28.280 [main] INFO  utilities.Log - Clicked on Previous Month Arrow

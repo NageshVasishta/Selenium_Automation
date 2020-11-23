@@ -1,0 +1,65 @@
+{
+	"Register": [
+		{
+			"url": "https://www.gillette.co.in/en-in",
+			"firstname"	:	"John",
+			"lastname"	:	"Cater",
+			"emailid"	:	"CaterJohn12@gmail.com",
+			"password"	:	"sdet@2020",
+			"birthdayMonth" :	"12",
+			"birthdayYear"	:	"1993",
+			"zipCode"	: "560079",
+			"receiveEmailsForOffers"	: "Yes"
+		},
+		{
+			"url": "https://www.gillette.de/",
+			"firstname"	:	"Michel",
+			"lastname"	:	"James",
+			"emailid"	:	"JamesMichel12@gmail.com",
+			"password"	:	"Sdet@2020",
+			"birthdayMonth" :	"12",
+			"birthdayYear"	:	"1991",
+			"zipCode"	: "560080",
+			"receiveEmailsForOffers"	: "Yes"
+		}
+	],
+	"LoginIn":	[
+		{
+			"url": "https://www.gillette.co.in/en-in",
+			"emailid"	:	"JohnCater1993@gmail.com",
+			"password"	:	"sdet@2020",
+			"firstname"	:	"John"
+		},
+		{
+			"url": "https://www.gillette.de/",
+			"emailid"	:	"MichelJames121991@gmail.com",
+			"password"	:	"Sdet@2020",
+			"firstname"	:	"Michel"
+		}
+	],
+	"InvalidEmailID": [
+		{
+			"url": "https://www.gillette.co.in/en-in",
+			"firstname"	:	"John",
+			"lastname"	:	"Cater",
+			"emailid"	:	"John@gmail",
+			"password"	:	"sdet@2020",
+			"birthdayMonth" :	"12",
+			"birthdayYear"	:	"1993",
+			"zipCode"	: "560079",
+			"receiveEmailsForOffers"	: "Yes"
+		},
+		{
+			"url": "https://www.gillette.de/",
+			"firstname"	:	"Michel",
+			"lastname"	:	"James",
+			"fullName"	: 	"Michel James",
+			"emailid"	:	"Jamess@gmail",
+			"password"	:	"Sdet@2020",
+			"birthdayMonth" :	"12",
+			"birthdayYear"	:	"1991",
+			"zipCode"	: "560080",
+			"receiveEmailsForOffers"	: "Yes"
+		}
+	]
+}
